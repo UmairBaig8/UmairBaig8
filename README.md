@@ -1,82 +1,121 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6DA55F&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Umair+%F0%9F%91%8B;Software+Engineer+%7C+Web+Developer;Currently+learning+MLOps+%F0%9F%8C%B1" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DA55F,100:1a1a2e&height=200&section=header&text=Umair%20Baig&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6DA55F&center=true&vCenter=true&width=600&lines=const+dev+%3D+%7B+role%3A+%22Software+Engineer%22+%7D%3B;dev.currentlyLearning+%3D+%22MLOps%22%3B;console.log(%22why+so+serious%3F%22)%3B" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-baig-a460a386)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__umair_baig__)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/umairbaig)
 
 </div>
 
-# 💫 About Me
+<br/>
 
-🔭 I'm currently working on **web applications**
-🌱 I'm currently learning **MLOps**
-💬 Ask me about **code**
-⚡ Fun fact: why so serious???
+## ```whoami```
 
----
+```yaml
+me:
+  role: Software Engineer
+  focus: Web Applications
+  learning: MLOps
+  motto: "why so serious?"
+  status: shipping code, breaking things, fixing them again
+```
 
-## 🌐 Socials
+<br/>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/umairbaig)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__umair_baig__)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-baig-a460a386)
-
----
-
-## 💻 Tech Stack
-
-**Languages**
-
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-
-**Databases**
-
-![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**ML / Data**
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-**Tools**
-
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Umairbaig8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Umairbaig8&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Umairbaig8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Umairbaig8&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/UmairBaig8/UmairBaig8/output/github-contribution-grid-snake-dark.svg)
-
-> Requires a one-time GitHub Actions setup — see `snake.yml` below.
-
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Umairbaig8&icon=0&color=6)](https://visitcount.itsvg.in)
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,go,scala,js,r,perl&theme=dark" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,angular,bootstrap,js&theme=dark" />
+
+**Backend & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,spring,flask,npm,maven,gradle&theme=dark" />
+
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,heroku,docker,kubernetes,jenkins,ansible,nginx,apache&theme=dark" />
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,cassandra,sqlite,dynamodb,neo4j&theme=dark" />
+
+**ML / Data Science**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy,plotly&theme=dark" />
+
+**Tools & Workflow**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,jira,confluence,elasticsearch,arduino,latex&theme=dark" />
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Umairbaig8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6DA55F&icon_color=6DA55F&text_color=c9d1d9&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umairbaig8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6DA55F&text_color=c9d1d9&langs_count=8"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Umairbaig8&theme=tokyonight&hide_border=true&background=0D1117&ring=6DA55F&fire=6DA55F&currStreakLabel=6DA55F"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Umairbaig8&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6DA55F&line=6DA55F&point=ffffff" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophy Case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Umairbaig8&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/UmairBaig8/UmairBaig8/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>Auto-generated via GitHub Actions — see <code>snake.yml</code></sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6DA55F&height=100&section=footer"/>
+
+<img src="https://visitcount.itsvg.in/api?id=Umairbaig8&icon=0&color=6" />
+
+</div>
